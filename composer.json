@@ -1,0 +1,18 @@
+{
+    "name": "pacewdd/5bx-client-library",
+    "description": "5bx Client Library",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steve George",
+            "email": "edu@pagerange.com"
+        }
+    ],
+	"autoload": {
+	    "psr-4" : {
+		   "Pacewdd\\Bx\\" : "src/"
+		}
+    },
+    "require": {}
+}
