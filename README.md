@@ -20,6 +20,11 @@ Add a `repositories` section to your `composer.json` file, with the following in
     ]
 ```
 
+Now, require the 5bx-client-library into your project:
+
+```bash
+composer require pacewdd/5bx-client-library
+```
 
 ## Use the 5BX Client Library
 
